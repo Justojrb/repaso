@@ -18,6 +18,14 @@ public class VariableTest {
 		System.out.println(modulo(num1, num2));
 	}
 
+	private static char[] modulo(int num1, int num2) {
+		return null;
+	}
+
+	private static double division(int num1, int num2) {
+		return 0;
+	}
+
 	private static int sum(int num1, int num2) {
 		
 		return num1 + num2;
